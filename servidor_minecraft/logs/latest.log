@@ -1,0 +1,70 @@
+[21:13:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[21:13:53] [ServerMain/INFO]: Loaded 1461 recipes
+[21:13:53] [ServerMain/INFO]: Loaded 1574 advancements
+[21:13:53] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[21:13:53] [Server thread/INFO]: Loading properties
+[21:13:53] [Server thread/INFO]: Default game type: SURVIVAL
+[21:13:53] [Server thread/INFO]: Generating keypair
+[21:13:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:13:53] [Server thread/INFO]: Using epoll channel type
+[21:13:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:13:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:13:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:13:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:13:53] [Server thread/INFO]: Preparing level "world"
+[21:13:54] [Server thread/INFO]: Loading 0 persistent chunks...
+[21:13:54] [Server thread/INFO]: Preparing spawn area: 100%
+[21:13:54] [Server thread/INFO]: Time elapsed: 11 ms
+[21:13:54] [Server thread/INFO]: Done (0.454s)! For help, type "help"
+[21:14:04] [Server thread/INFO]: pablo_17_[/127.72.158.84:38717] logged in with entity id 83 at (-362.3420349184063, 82.9375, -1104.7154252309856)
+[21:14:04] [Server thread/INFO]: pablo_17_ joined the game
+[21:14:05] [Server thread/INFO]: facuuundooo[/127.221.55.123:46281] logged in with entity id 142 at (-278.21766067184103, 65.0, -1124.2809606079409)
+[21:14:05] [Server thread/INFO]: facuuundooo joined the game
+[21:17:24] [Server thread/INFO]: pablo_17_ was slain by facuuundooo
+[21:23:23] [Server thread/INFO]: pablo_17_ lost connection: Disconnected
+[21:23:23] [Server thread/INFO]: pablo_17_ left the game
+[21:23:58] [Server thread/INFO]: pablo_17_[/127.72.158.84:40531] logged in with entity id 2899 at (-397.0380845585572, 64.0, -1028.5216227907943)
+[21:23:58] [Server thread/INFO]: pablo_17_ joined the game
+[21:24:03] [Server thread/INFO]: pablo_17_ lost connection: Disconnected
+[21:24:03] [Server thread/INFO]: pablo_17_ left the game
+[21:24:14] [Server thread/INFO]: pablo_17_[/127.72.158.84:35237] logged in with entity id 2941 at (-397.0380845585572, 64.0, -1028.5216227907943)
+[21:24:14] [Server thread/INFO]: pablo_17_ joined the game
+[21:24:29] [Server thread/INFO]: pablo_17_ lost connection: Disconnected
+[21:24:29] [Server thread/INFO]: pablo_17_ left the game
+[21:24:39] [Server thread/INFO]: pablo_17_[/127.72.158.84:33931] logged in with entity id 3019 at (-374.5202231631652, 66.0, -1044.699999988079)
+[21:24:39] [Server thread/INFO]: pablo_17_ joined the game
+[21:24:41] [Server thread/INFO]: pablo_17_ lost connection: Disconnected
+[21:24:41] [Server thread/INFO]: pablo_17_ left the game
+[21:24:46] [Server thread/INFO]: pablo_17_[/127.72.158.84:52897] logged in with entity id 3041 at (-374.5202231631652, 64.0, -1044.699999988079)
+[21:24:46] [Server thread/INFO]: pablo_17_ joined the game
+[21:25:29] [Server thread/INFO]: Villager cyx['Villager'/103, l='ServerLevel[world]', x=-351.66, y=58.59, z=-1052.85] died, message: 'Villager was slain by Zombie'
+[21:30:59] [Server thread/INFO]: [Not Secure] <pablo_17_> eae
+[21:32:51] [Server thread/INFO]: pablo_17_ has made the advancement [Ice Bucket Challenge]
+[21:34:43] [Server thread/INFO]: facuuundooo has made the advancement [We Need to Go Deeper]
+[21:34:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5864ms or 117 ticks behind
+[21:35:10] [Server thread/INFO]: pablo_17_ has made the advancement [We Need to Go Deeper]
+[21:42:10] [Server thread/INFO]: pablo_17_ lost connection: Disconnected
+[21:42:10] [Server thread/INFO]: pablo_17_ left the game
+[21:43:29] [Server thread/INFO]: pablo_17_[/127.72.158.84:40113] logged in with entity id 6025 at (-281.9433967174281, 64.0, -1110.7386437772584)
+[21:43:29] [Server thread/INFO]: pablo_17_ joined the game
+[21:43:47] [Server thread/INFO]: pablo_17_ lost connection: Disconnected
+[21:43:47] [Server thread/INFO]: pablo_17_ left the game
+[21:44:00] [Server thread/INFO]: pablo_17_[/127.72.158.84:41205] logged in with entity id 6174 at (-278.8914756115209, 65.0, -1071.9651416492266)
+[21:44:00] [Server thread/INFO]: pablo_17_ joined the game
+[21:44:03] [Server thread/INFO]: pablo_17_ lost connection: Disconnected
+[21:44:03] [Server thread/INFO]: pablo_17_ left the game
+[21:45:04] [Server thread/INFO]: facuuundooo lost connection: Disconnected
+[21:45:04] [Server thread/INFO]: facuuundooo left the game
+[21:45:15] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[21:45:15] [Server thread/INFO]: stop[3~<--[HERE]
+[21:45:21] [Server thread/INFO]: Stopping the server
+[21:45:21] [Server thread/INFO]: Stopping server
+[21:45:21] [Server thread/INFO]: Saving players
+[21:45:21] [Server thread/INFO]: Saving worlds
+[21:45:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:45:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:45:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:45:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:45:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:45:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:45:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
