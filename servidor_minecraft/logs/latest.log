@@ -1,0 +1,68 @@
+[18:57:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[18:57:08] [ServerMain/INFO]: Loaded 1461 recipes
+[18:57:08] [ServerMain/INFO]: Loaded 1574 advancements
+[18:57:08] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[18:57:08] [Server thread/INFO]: Loading properties
+[18:57:08] [Server thread/INFO]: Default game type: SURVIVAL
+[18:57:08] [Server thread/INFO]: Generating keypair
+[18:57:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:57:09] [Server thread/INFO]: Using epoll channel type
+[18:57:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:57:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:57:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:57:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:57:09] [Server thread/INFO]: Preparing level "world"
+[18:57:09] [Server thread/INFO]: Loading 0 persistent chunks...
+[18:57:09] [Server thread/INFO]: Preparing spawn area: 100%
+[18:57:09] [Server thread/INFO]: Time elapsed: 14 ms
+[18:57:09] [Server thread/INFO]: Done (0.564s)! For help, type "help"
+[18:57:18] [Server thread/INFO]: facuuundooo[/127.221.55.123:49473] logged in with entity id 43 at (-437.30000001192093, 68.0, -1139.507060772599)
+[18:57:18] [Server thread/INFO]: facuuundooo joined the game
+[19:20:16] [Server thread/INFO]: pablo_17_[/127.72.158.84:59745] logged in with entity id 4941 at (-277.30000001192093, 62.0, -1071.300000011921)
+[19:20:17] [Server thread/INFO]: pablo_17_ joined the game
+[19:26:05] [Server thread/INFO]: facuuundooo lost connection: Disconnected
+[19:26:05] [Server thread/INFO]: facuuundooo left the game
+[19:26:05] [Server thread/WARN]: handleDisconnection() called twice
+[19:26:11] [Server thread/INFO]: facuuundooo[/127.221.55.123:46071] logged in with entity id 6289 at (-256.2587062850641, 64.0, -1165.6139154242499)
+[19:26:11] [Server thread/INFO]: facuuundooo joined the game
+[19:30:31] [Server thread/INFO]: Seed: [-3755982835559464866]
+[19:30:38] [Server thread/INFO]: Villager cyx['Nitwit'/19, l='ServerLevel[world]', x=-381.70, y=62.00, z=-1149.30] died, message: 'Nitwit was slain by Zombie'
+[19:31:06] [Server thread/INFO]: Villager cyx['Villager'/20, l='ServerLevel[world]', x=-377.72, y=55.17, z=-1152.54] died, message: 'Villager was slain by Zombie'
+[19:34:29] [Server thread/INFO]: pablo_17_ has made the advancement [Take Aim]
+[19:39:52] [Server thread/INFO]: pablo_17_ has made the advancement [A Seedy Place]
+[19:42:12] [Server thread/INFO]: Incorrect argument for command
+[19:42:12] [Server thread/INFO]: locate stronghold<--[HERE]
+[19:43:59] [Server thread/INFO]: There is no structure with type "minecraft:stronhold"
+[19:44:32] [Server thread/INFO]: The nearest minecraft:stronghold is at [288, ~, -2336] (1579 blocks away)
+[19:44:32] [Server thread/INFO]: Locating element minecraft:stronghold took 9 ms
+[19:45:23] [Server thread/WARN]: facuuundooo moved too quickly! 0.7768655429097464,-10.468705676006415,-2.815464981074001
+[19:45:59] [Server thread/INFO]: pablo_17_ lost connection: You logged in from another location
+[19:45:59] [Server thread/INFO]: pablo_17_ left the game
+[19:46:01] [Server thread/INFO]: pablo_17_[/127.72.158.84:56377] logged in with entity id 14081 at (-321.40768838011365, 72.0, -1093.4776682703775)
+[19:46:01] [Server thread/INFO]: pablo_17_ joined the game
+[19:50:59] [Server thread/INFO]: Unknown item 'minecraft:milk'
+[19:50:59] [Server thread/INFO]: ...cuuundooo milk<--[HERE]
+[19:52:26] [Server thread/INFO]: Gave 1 [Milk Bucket] to facuuundooo
+[19:52:50] [Server thread/INFO]: Villager cyx['Farmer'/14067, l='ServerLevel[world]', x=-358.50, y=76.00, z=-1056.00] died, message: 'Farmer was slain by Zombie'
+[19:53:10] [Server thread/INFO]: facuuundooo has made the advancement [Eye Spy]
+[20:02:52] [Server thread/INFO]: Teleported facuuundooo to pablo_17_
+[20:03:47] [Server thread/INFO]: facuuundooo has made the advancement [Take Aim]
+[20:09:25] [Server thread/INFO]: facuuundooo has made the advancement [The Cutest Predator]
+[20:25:25] [Server thread/INFO]: pablo_17_ was slain by Zombie
+[20:28:14] [Server thread/INFO]: pablo_17_ was burned to a crisp while fighting Skeleton
+[20:28:18] [Server thread/INFO]: pablo_17_ lost connection: Disconnected
+[20:28:18] [Server thread/INFO]: pablo_17_ left the game
+[20:37:29] [Server thread/INFO]: facuuundooo has made the advancement [Enchanter]
+[20:46:57] [Server thread/INFO]: facuuundooo lost connection: Disconnected
+[20:46:57] [Server thread/INFO]: facuuundooo left the game
+[20:47:09] [Server thread/INFO]: Stopping the server
+[20:47:09] [Server thread/INFO]: Stopping server
+[20:47:09] [Server thread/INFO]: Saving players
+[20:47:09] [Server thread/INFO]: Saving worlds
+[20:47:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:47:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:47:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:47:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:47:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:47:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:47:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
